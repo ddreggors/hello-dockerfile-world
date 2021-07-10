@@ -1,7 +1,3 @@
-# hello-dockerfile-world
-A simple PHP Hello World application to deploy in OCP
-
-
 = Hello dockerfile World
 
 This is just a small PHP Hello World app that I use to quickly demonstrate dockerfile builds in Openshift.
